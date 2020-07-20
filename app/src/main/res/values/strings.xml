@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">movie_project2</string>
+    <string name="description">Plot Synopsis</string>
+    <string name="userRating">User Rating</string>
+    <string name="ReleaseDate">Release Date</string>
+    <string name="title">Title</string>
+    <string name="apikey"></string>
+    <string name="review">Reviews</string>
+    <string name="fullhd">Watch Trailer</string>
+    <string name="sd">360p</string>
+    <string name="setasfavourite">Favourite</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="fav">Favourites</string>
+</resources>
+   
